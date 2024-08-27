@@ -8,7 +8,8 @@ This board is compatible with this model:
 
 *   Sony PS Vita Slim
 
-![Sony-PS-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PS-Vita-Slim-USB-C-Kit/master/4.%20Photos/Sony-PS-Vita-Slim-v1.0.jpg)
+![Sony-PS-Vita-Slim-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PS-Vita-Slim-USB-C-Kit/master/4.%20Photos/PSV2-USB-C-v1.0_7.jpg)
+![Sony-PS-Vita-Slim-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PS-Vita-Slim-USB-C-Kit/master/4.%20Photos/PSV2-USB-C-v1.0_3.jpg)
 
 
 ## Would you like it?
